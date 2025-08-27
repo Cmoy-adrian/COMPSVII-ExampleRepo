@@ -1,7 +1,7 @@
 My Grocery List
 - Apples
 - Bananas
-- Potato Chips
+- Frozen Pizza
 - Eggs
 - Butter
 - Sugar
